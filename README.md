@@ -1,5 +1,4 @@
 # RetentionProject
-# Retention Rate Project
 
 ## Problem
 
