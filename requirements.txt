@@ -1,0 +1,8 @@
+pandas
+numpy
+sqlalchemy
+python-dotenv
+tensorflow
+scikit-learn
+jupyter
+LinearRegression
