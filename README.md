@@ -8,7 +8,7 @@
 ## Methodology
 
 1. **Dataset Selection**  
-   Explored healthcare.gov and attempted to use their API, but found it unfit for this purpose. Switched to a synthetic dataset from Kaggle with ~8000 rows and 60 columns, then downloaded it as CSV.
+   Explored healthcare.gov and attempted to use their API, but found it unfit for this purpose. Switched to a synthetic dataset from Kaggle with 8000 rows and 60 columns, then downloaded it as CSV.
 
 2. **SQL Integration**  
    Imported CSV into MySQL. Fixed column formatting errors. Used `LOAD DATA INFILE` for reliable imports. Cleaned and filtered the dataset in SQL before importing to Python.
@@ -38,10 +38,10 @@
 
 8. **Visualization (Tableau)**  
    - Imported results and created visual dashboards.
-   - Highlighted state-by-state patterns, age group trends, and retention features.
+   - Highlighted states patterns, age group trends, and retention features.
 
 9. **Insights and Recommendations**  
-   - Clients around age 64, living in Washington D.C., with specific coverage types were more likely to stay.
+   - Clients around the age 64, living in Washington D.C., with specific coverage types were more likely to stay.
    - Identified average values and characteristics of top 10 retained clients.
    - Findings can guide strategic retention planning in healthcare firms.
 
