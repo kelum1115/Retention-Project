@@ -30,7 +30,7 @@
 6. **Training and Evaluation**  
    - Trained the model for 30 epochs.
    - Achieved 84% accuracy.  
-   - Noted the average predicted retention probability was ~50%.
+   - Noted the average predicted retention probability was 50%.
 
 7. **Linear Regression Comparison**  
    - Built a regression model for interpretability.  
